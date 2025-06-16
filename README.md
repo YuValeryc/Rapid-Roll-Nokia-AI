@@ -2,6 +2,10 @@
 
 Rapid Roll AI là một game được phát triển bằng Pygame, trong đó người chơi điều khiển một quả bóng di chuyển qua các nền tảng. Dự án này cũng tích hợp một AI agent sử dụng thuật toán Deep Q-Network (DQN) để tự động chơi game.
 
+## 💡 Demo
+
+![Demo](assets/demo.gif)
+
 ## Tính năng
 
 - **Chế độ chơi thủ công:** Người chơi có thể điều khiển quả bóng bằng các phím mũi tên -> hoặc <-.
